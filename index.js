@@ -5,4 +5,4 @@
 //git push origin master ile de uzaktaki repomuza yapılan değişiklikleri kaydederiz. master branchinde calistigimiz icin git push origin master deriz. aslına hangi branchde calisiyorsak onu pısh ederiz.
 
 //git checkout -b yenibranch komutu ile yeni branch oluştururuz.
-//yeni branche geçildi.
+//yeni branch değişikliği.
